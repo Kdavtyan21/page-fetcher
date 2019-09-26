@@ -16,4 +16,4 @@ const requireWeb = function(url, path) {
   })
 }
 
-requireWeb()
+requireWeb(url, path)
